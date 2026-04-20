@@ -11,3 +11,8 @@ una actualització més.
 canvis des de la branca local desenvolupador01
 
 Canvis des de dev editor
+
+### :zap: Activitat recent
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
