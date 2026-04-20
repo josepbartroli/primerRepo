@@ -37,11 +37,3 @@ with:
 COMMIT_NAME: 'github-actions[bot]'
 
 COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
-
-debes usar las siguientes etiquetas en el contenido de tu README.md (me refiero al documento que muestra tu perfil):
-
-### Mi Actividad reciente en GitHub
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
