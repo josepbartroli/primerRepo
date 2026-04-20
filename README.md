@@ -13,6 +13,6 @@ canvis des de la branca local desenvolupador01
 Canvis des de dev editor
 
 ### :zap: Activitat recent
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITU:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
