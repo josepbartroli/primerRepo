@@ -9,3 +9,5 @@ un commit més des de Github.
 una actualització més.
 
 canvis des de la branca local desenvolupador01
+
+Canvis des de dev editor
